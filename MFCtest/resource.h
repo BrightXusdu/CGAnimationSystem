@@ -30,6 +30,7 @@
 #define ID_VIEW_APPLOOK_WINDOWS_7       219
 #define IDS_EDIT_MENU                   306
 #define IDD_CDiamondDlg                 310
+#define IDB_PNG1                        311
 #define IDI_ICON1                       312
 #define IDC_EDIT_N                      1000
 #define IDC_EDIT_R                      1001
